@@ -9,5 +9,5 @@ cask "dorothy-ssr" do
 
   depends_on macos: ">= :big_sur"
 
-  app "Dorothy SSR.app"
+  app "Dorothy.app", target: "Dorothy SSR.app"
 end
