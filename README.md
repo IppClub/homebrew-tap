@@ -1,6 +1,6 @@
 # homebrew-dorothy-ssr
 
-Homebrew tap for PlayCover and related tools.
+Homebrew tap for Dorothy SSR game engine.
 
 ## Casks
 ```
