@@ -4,7 +4,7 @@ cask "dorothy-ssr" do
 
   url "https://github.com/pigpigyyy/Dorothy-SSR/releases/download/v#{version}/dorothy-ssr-v#{version}-macos-universal.zip", verified: "github.com/pigpigyyy/Dorothy-SSR/"
   name "Dorothy SSR"
-  desc "A game engine for rapid game development"
+  desc "a game engine for rapid game development"
   homepage "https://www.dorothy-ssr.net"
 
   depends_on macos: ">= :big_sur"
