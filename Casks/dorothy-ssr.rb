@@ -1,5 +1,5 @@
 cask "dorothy-ssr" do
-  version "1.0.28"
+  version "1.0.29"
   sha256 :no_check
 
   url "https://github.com/pigpigyyy/Dorothy-SSR/releases/download/v#{version}/dorothy-ssr-v#{version}-macos-universal.zip", verified: "github.com/pigpigyyy/Dorothy-SSR/"
