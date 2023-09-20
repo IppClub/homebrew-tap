@@ -10,7 +10,7 @@ dorothy-ssr
 ## Installing
 
 ```
-brew tap pigpigyyy/dorothy-ssr
+brew tap ippclub/dorothy-ssr
 brew install --cask dorothy-ssr
 ```
 
@@ -18,5 +18,5 @@ brew install --cask dorothy-ssr
 
 ```
 brew uninstall --cask dorothy-ssr
-brew untap pigpigyyy/dorothy-ssr
+brew untap ippclub/dorothy-ssr
 ```
