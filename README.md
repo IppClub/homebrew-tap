@@ -4,19 +4,19 @@ Homebrew tap for Dorothy SSR game engine.
 
 ## Casks
 ```
-dorothy-ssr
+dora-ssr
 ```
 
 ## Installing
 
 ```
-brew tap ippclub/dorothy-ssr
-brew install --cask dorothy-ssr
+brew tap ippclub/dora-ssr
+brew install --cask dora-ssr
 ```
 
 ## Uninstalling
 
 ```
-brew uninstall --cask dorothy-ssr
-brew untap ippclub/dorothy-ssr
+brew uninstall --cask dora-ssr
+brew untap ippclub/dora-ssr
 ```
