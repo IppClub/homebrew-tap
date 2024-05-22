@@ -1,5 +1,5 @@
 cask "dora-ssr" do
-  version "1.4.1"
+  version "1.4.2"
   sha256 :no_check
 
   url "https://github.com/IppClub/Dora-SSR/releases/download/v#{version}/dora-ssr-v#{version}-macos-universal.zip", verified: "github.com/IppClub/Dora-SSR/"
