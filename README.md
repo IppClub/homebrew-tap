@@ -1,6 +1,6 @@
-# homebrew-dorothy-ssr
+# homebrew-dora-ssr
 
-Homebrew tap for Dorothy SSR game engine.
+Homebrew tap for Dora SSR game engine.
 
 ## Casks
 ```
