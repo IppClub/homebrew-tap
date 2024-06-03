@@ -1,6 +1,6 @@
 # homebrew-dora-ssr
 
-Homebrew tap for Dora SSR game engine.
+Homebrew tap for [Dora SSR](https://github.com/IppClub/Dora-SSR) game engine.
 
 ## Casks
 ```
