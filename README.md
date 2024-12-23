@@ -1,4 +1,4 @@
-# homebrew-dora-ssr
+# homebrew-tap
 
 Homebrew tap for [Dora SSR](https://github.com/IppClub/Dora-SSR) game engine.
 
