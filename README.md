@@ -10,7 +10,7 @@ dora-ssr
 ## Installing
 
 ```
-brew tap ippclub/dora-ssr
+brew tap ippclub/tap
 brew install --cask dora-ssr
 ```
 
@@ -18,5 +18,5 @@ brew install --cask dora-ssr
 
 ```
 brew uninstall --cask dora-ssr
-brew untap ippclub/dora-ssr
+brew untap ippclub/tap
 ```
