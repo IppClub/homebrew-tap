@@ -1,22 +1,33 @@
 # homebrew-tap
 
-Homebrew tap for [Dora SSR](https://github.com/IppClub/Dora-SSR) game engine.
+Homebrew tap for IppClub softwares.
 
-## Casks
-```
-dora-ssr
-```
+## Dora SSR
 
-## Installing
+For [Dora SSR](https://github.com/IppClub/Dora-SSR) game engine.
 
-```
-brew tap ippclub/tap
-brew install --cask dora-ssr
-```
+* Casks
 
-## Uninstalling
+  ```
+  dora-ssr
+  ```
 
-```
-brew uninstall --cask dora-ssr
-brew untap ippclub/tap
-```
+* Installing
+
+  ```
+  brew tap ippclub/tap
+  brew install --cask dora-ssr
+  ```
+
+  Or
+
+  ```
+  brew install --cask ippclub/tap/dora-ssr
+  ```
+
+* Uninstalling
+
+  ```
+  brew uninstall --cask dora-ssr
+  brew untap ippclub/tap
+  ```
