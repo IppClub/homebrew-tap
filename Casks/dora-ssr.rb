@@ -7,7 +7,7 @@ cask "dora-ssr" do
   desc "Game engine for rapid game development"
   homepage "https://www.dora-ssr.net/"
 
-  depends_on macos: :big_sur
+  depends_on :macos
 
   app "Dora.app", target: "Dora SSR.app"
 end
