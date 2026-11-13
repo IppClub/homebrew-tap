@@ -1,6 +1,6 @@
 cask "dora-ssr" do
   version "1.10.2"
-  sha256 "dff7fc448e8579c12fa0c3b970569d7379fff700d1091016380ed09ba8ce689a"
+  sha256 "dbf83d280839eba0c314786d238e7c297e5adc089be6b768bb46aec012aa3b15"
 
   url "https://github.com/IppClub/Dora-SSR/releases/download/v#{version}/dora-ssr-v#{version}-macos-arm64.zip"
   name "Dora SSR"
